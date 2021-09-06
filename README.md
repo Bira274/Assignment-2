@@ -1,3 +1,3 @@
 # Work Description
 
-Practicing use is github and vscode
+Practicing use of github and vscode
